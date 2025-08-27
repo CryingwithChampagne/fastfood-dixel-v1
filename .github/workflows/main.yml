@@ -3,7 +3,7 @@ name: CI/CD Pipeline
 on:
   push:
     branches:
-      - main # หรือชื่อ branch หลักของคุณ
+      - main 
 
 jobs:
   build-and-deploy:
